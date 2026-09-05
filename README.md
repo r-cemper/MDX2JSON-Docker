@@ -1,6 +1,7 @@
 ## MDX2JSON in Docker
 The PR for integration in Docker was ignored.   
-This is a safe environment for testing and trying.      
+This is a safe environment for testing and trying.
+Some test data have been prepared.
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 ### Installation
